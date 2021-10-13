@@ -2,4 +2,4 @@
 
 This project is part of the Stephen Grider udemy course "Typescript: The Complete Developer's Guide"
 
-It uses Typescript, parce, google's api and fake package to generate random users and companys that would be located on the map, using markers.
+It uses Typescript, parcel, google's api and the faker package to generate random users and companies that would be located on the map, using markers.
